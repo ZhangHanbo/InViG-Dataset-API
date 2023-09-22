@@ -92,3 +92,26 @@ ANN_ROOT/
 
 ### Usage
 
+To use the api, you can follow the codes:
+
+```python
+from invig_api import INVIGAPI
+
+invig_api = INVIGAPI(YOUR_ANN_ROOT, YOUR_PATH_ROOT)
+
+print(len(invig_api))
+
+# get annotation
+print(invig_api[10])
+
+# get data by type
+print(invig_api.get_image(10))
+print(invig_api.get_bboxes(10))
+print(invig_api.get_bboxes(10))
+print(invig_api.get_dialogues(10))
+
+# get data for different tasks
+print(invig_api.get_mvqa(10))
+print(invig_api.get_mvqg(10))
+print(invig_api.get_mvg(10))
+```
