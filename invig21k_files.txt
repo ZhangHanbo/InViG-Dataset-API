@@ -1,0 +1,4 @@
+https://lf-robot-opensource.bytetos.com/obj/lab-robot-public/invig_icra2024/invig21k_imgs.zip
+https://lf-robot-opensource.bytetos.com/obj/lab-robot-public/invig_icra2024/invig21k_anns/raw/invig21k_test_anns.jsonl
+https://lf-robot-opensource.bytetos.com/obj/lab-robot-public/invig_icra2024/invig21k_anns/raw/invig21k_train_anns.jsonl
+https://lf-robot-opensource.bytetos.com/obj/lab-robot-public/invig_icra2024/invig21k_anns/raw/invig21k_valid_anns.jsonl
