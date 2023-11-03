@@ -108,7 +108,6 @@ print(invig_api[10])
 # get data by type
 print(invig_api.get_image(10))
 print(invig_api.get_bboxes(10))
-print(invig_api.get_bboxes(10))
 print(invig_api.get_dialogues(10))
 
 # get data for different tasks
